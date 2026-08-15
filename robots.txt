@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-2aenpo.salamcuan.shop/sitemap.xml
